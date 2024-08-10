@@ -15,3 +15,8 @@ data/application_train_split.csv
 .ipynb_checkpoints/Bank-checkpoint.ipynb
 .ipynb_checkpoints/Untitled1-checkpoint.ipynb
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+catboost_info/time_left.tsv
+catboost_info/learn_error.tsv
+catboost_info/learn/events.out.tfevents
+catboost_info/catboost_training.json
+.ipynb_checkpoints/Model-checkpoint.ipynb
