@@ -22,3 +22,4 @@ catboost_info/catboost_training.json
 .ipynb_checkpoints/Model-checkpoint.ipynb
 catboost_info/tmp/cat_feature_index.6b7baf43-b2055de3-d6266dd8-8d99705c.tmp
 .ipynb_checkpoints/random_forest_baseline-checkpoint.csv
+data/train2.csv
