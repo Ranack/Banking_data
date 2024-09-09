@@ -25,3 +25,4 @@ catboost_info/tmp/cat_feature_index.6b7baf43-b2055de3-d6266dd8-8d99705c.tmp
 data/train2.csv
 submission_catboost.csv
 submission_lightgbm.csv
+.ipynb_checkpoints/Roualec_Kevin_1_notebook_analyse_exploratoire_feature_enginering_082024-checkpoint.ipynb
